@@ -1,0 +1,43 @@
+{
+  "statusCode": "OK",
+  "code": "200",
+  "message": "",
+  "data": [
+    {
+      "application": "APPMEDIADOR",
+      "user": "MZABRPM",
+      "channel": "A",
+      "title": "Notificación de pruebna",
+      "message": "Esto es una notificación de prueba",
+      "url": "http://wwww.generali.es",
+      "idNotification": "001",
+      "signTimestamp": "false",
+      "expire": "3600",
+      "language": "es"
+    },
+    {
+      "application": "APPMEDIADOR",
+      "user": "MZABRPM",
+      "channel": "A",
+      "title": "Segunda notificación de pruebna",
+      "message": "Esto es otra notificación de prueba",
+      "url": "http://wwww.generali.es",
+      "idNotification": "002",
+      "signTimestamp": "false",
+      "expire": "3600",
+      "language": "es"
+    },
+    {
+      "application": "APPMEDIADOR",
+      "user": "MZABRPM",
+      "channel": "A",
+      "title": "Tercera notificación de pruebna",
+      "message": "Esta es la última notificación de prueba",
+      "url": "http://wwww.generali.es",
+      "idNotification": "003",
+      "signTimestamp": "false",
+      "expire": "3600",
+      "language": "es"
+    }
+  ]
+}
